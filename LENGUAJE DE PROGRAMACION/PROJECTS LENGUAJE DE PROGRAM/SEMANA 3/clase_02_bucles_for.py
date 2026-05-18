@@ -228,3 +228,11 @@ print("=" * 60)
 # control_continue()
 # control_else_de_bucle()
 control_pass()
+
+# =============================================================================
+# CONCLUSION DE LA PRACTICA
+# =============================================================================
+# Esta práctica permitió comprender el funcionamiento del bucle for
+# en Python y el uso de controles como break, continue, pass y else.
+# Además, se aprendió a recorrer listas, cadenas y rangos numéricos,
+# fortaleciendo la lógica de programación y la organización del código.

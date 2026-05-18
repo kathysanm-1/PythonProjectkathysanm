@@ -177,3 +177,12 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# =============================================================================
+# CONCLUSION DE LA PRACTICA
+# =============================================================================
+# Esta práctica integró el uso de estructuras condicionales, bucles
+# y funciones en Python mediante ejercicios aplicados a redes y
+# ciberseguridad. Además, permitió fortalecer la lógica de programación,
+# validación de datos y análisis básico de información.
