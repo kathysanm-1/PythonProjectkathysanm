@@ -158,3 +158,7 @@ ejercicio_1_5()
 # print("\n" + "=" * 60)
 # print("FIN - Continuar con: clase_02_bucles_for.py")
 # print("=" * 60)
+
+# Esta práctica permitió comprender el funcionamiento de las
+# estructuras condicionales en Python y su aplicación en
+# escenarios relacionados con redes y ciberseguridad.
