@@ -48,11 +48,11 @@ class Dispositivo:
         self.ip = ip
         self.estado = "Apagado"
 
-    # Método para encender el dispositivo
+    # Metodo para encender el dispositivo
     def encender(self):
         self.estado = "Encendido"
 
-    # Método para mostrar la información
+    # Metodo para mostrar la información
     def mostrar_informacion(self):
         print("----- DISPOSITIVO -----")
         print("Nombre:", self.nombre)
